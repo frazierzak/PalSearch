@@ -1,0 +1,110 @@
+:root {
+    --white: #fff;
+    --black: #000;
+    --gray: #6c757d;
+    --gray-dark: #343a40;
+    --blue: #007bff;
+    --indigo: #6610f2;
+    --purple: #6f42c1;
+    --pink: #e83e8c;
+    --red: #dc3545;
+    --orange: #fd7e14;
+    --yellow: #ffc107;
+    --green: #28a745;
+    --teal: #20c997;
+    --cyan: #17a2b8;
+    --primary: #007bff;
+    --secondary: #6c757d;
+    --success: #28a745;
+    --info: #17a2b8;
+    --warning: #ffc107;
+    --danger: #dc3545;
+    --light: #f8f9fa;
+    --dark: #343a40;
+    --breakpoint-xs: 0;
+    --breakpoint-sm: 576px;
+    --breakpoint-md: 768px;
+    --breakpoint-lg: 992px;
+    --breakpoint-xl: 1200px;
+    --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background-color: #1e1e1e;
+    color: #ffffff;
+}
+
+h2 {
+    padding-bottom: .5rem;
+}
+
+.navbar {
+    background-color: #343a40; /* Darker navbar background color */
+    color: #ffffff; /* Navbar text color */
+}
+
+    .navbar .navbar-brand img {
+        width: 15rem;
+        height: auto;
+        color: #ffffff; /* Navbar brand text color */
+    }
+
+.nav-link {
+    color: #ffffff; /* Navbar link text color */
+}
+
+    .nav-link:hover {
+        color: #89d2ff; /* Navbar link hover color */
+    }
+
+.input-group {
+    background-color: #343a40; /* Darker input group background color */
+    color: #ffffff; /* Input group text color */
+}
+
+.btn {
+    background-color: #007bff; /* Primary button background color (blue) */
+    color: #ffffff; /* Button text color */
+}
+
+.btn-outline-secondary {
+    border-color: #6c757d; /* Secondary button border color */
+    color: #6c757d; /* Secondary button text color */
+}
+
+.table {
+    color: #ffffff; /* Table text color */
+}
+
+    .table td, .table th {
+        vertical-align: middle;
+    }
+
+.form-control {
+    color: #ffffff;
+}
+
+    .form-control:focus {
+        color: #ffffff;
+    }

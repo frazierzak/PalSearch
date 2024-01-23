@@ -1,0 +1,2909 @@
+[
+    {
+        "PalNumber": "1",
+        "PalName": "Lamball",
+        "PalElement": "Neutral",
+        "PartnerSkill": "Fluffy Shield",
+        "PalJobs": [
+            {
+                "WorkName": "Handiwork",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Farming",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Lamball Mutton",
+            "Wool"
+        ]
+    },
+    {
+        "PalNumber": "2",
+        "PalName": "Cattiva",
+        "PalElement": "Neutral",
+        "PartnerSkill": "Cat Helper",
+        "PalJobs": [
+            {
+                "WorkName": "Handiwork",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Gathering",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Mining",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Red Berries"
+        ]
+    },
+    {
+        "PalNumber": "3",
+        "PalName": "Chikipi",
+        "PalElement": "Neutral",
+        "PartnerSkill": "Egg Layer",
+        "PalJobs": [
+            {
+                "WorkName": "Gathering",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Farming",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Chikipi Poultry",
+            "Egg"
+        ]
+    },
+    {
+        "PalNumber": "4",
+        "PalName": "Lifmunk",
+        "PalElement": "Grass",
+        "PartnerSkill": "Lifmunk Recoil",
+        "PalJobs": [
+            {
+                "WorkName": "Planting",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Handiwork",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Gathering",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Lumbering",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Medicine Production",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Berry Seeds",
+            "Low Grade Medical Supplies"
+        ]
+    },
+    {
+        "PalNumber": "5",
+        "PalName": "Foxparks",
+        "PalElement": "Fire",
+        "PartnerSkill": "Huggy Fire",
+        "PalJobs": [
+            {
+                "WorkName": "Kindling",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Flame Organ",
+            "Leather"
+        ]
+    },
+    {
+        "PalNumber": "6",
+        "PalName": "Fuack",
+        "PalElement": "Water",
+        "PartnerSkill": "Surfing Slam",
+        "PalJobs": [
+            {
+                "WorkName": "Watering",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Handiwork",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Leather",
+            "Pal Fluids"
+        ]
+    },
+    {
+        "PalNumber": "7",
+        "PalName": "Sparkit",
+        "PalElement": "Electric",
+        "PartnerSkill": "Static Electricity",
+        "PalJobs": [
+            {
+                "WorkName": "Generating Electricity",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Handiwork",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Electric Organ"
+        ]
+    },
+    {
+        "PalNumber": "8",
+        "PalName": "Tanzee",
+        "PalElement": "Grass",
+        "PartnerSkill": "Cheery Rifle",
+        "PalJobs": [
+            {
+                "WorkName": "Planting",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Handiwork",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Gathering",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Lumbering",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Mushroom"
+        ]
+    },
+    {
+        "PalNumber": "9",
+        "PalName": "Rooby",
+        "PalElement": "Fire",
+        "PartnerSkill": "Tiny Spark",
+        "PalJobs": [
+            {
+                "WorkName": "Kindling",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Flame Organ",
+            "Leather"
+        ]
+    },
+    {
+        "PalNumber": "10",
+        "PalName": "Pengullet",
+        "PalElement": "Water",
+        "PartnerSkill": "Pengullet Cannon",
+        "PalJobs": [
+            {
+                "WorkName": "Watering",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Handiwork",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Cooling",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Ice Organ",
+            "Pal Fluids"
+        ]
+    },
+    {
+        "PalNumber": "11",
+        "PalName": "Penking",
+        "PalElement": "Water",
+        "PartnerSkill": "Brave Sailor",
+        "PalJobs": [
+            {
+                "WorkName": "Watering",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Handiwork",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Mining",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Cooling",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "2"
+            }
+        ],
+        "PalDrops": [
+            "Ice Organ",
+            "Penking Plume"
+        ]
+    },
+    {
+        "PalNumber": "12",
+        "PalName": "Jolthog",
+        "PalElement": "Electric",
+        "PartnerSkill": "Jolt Bomb",
+        "PalJobs": [
+            {
+                "WorkName": "Generating Electricity",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Electric Organ"
+        ]
+    },
+    {
+        "PalNumber": "12B",
+        "PalName": "Jolthog Cryst",
+        "PalElement": "Ice",
+        "PartnerSkill": "Cold Bomb",
+        "PalJobs": [
+            {
+                "WorkName": "Cooling",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Ice Organ"
+        ]
+    },
+    {
+        "PalNumber": "13",
+        "PalName": "Gumoss",
+        "PalElement": "Grass",
+        "PartnerSkill": "Logging Assistance",
+        "PalJobs": [
+            {
+                "WorkName": "Planting",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Berry Seeds",
+            "Gumoss Leaf"
+        ]
+    },
+    {
+        "PalNumber": "14",
+        "PalName": "Vixy",
+        "PalElement": "Neutral",
+        "PartnerSkill": "Dig Here!",
+        "PalJobs": [
+            {
+                "WorkName": "Gathering",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Farming",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Bone",
+            "Leather"
+        ]
+    },
+    {
+        "PalNumber": "15",
+        "PalName": "Hoocrates",
+        "PalElement": "Dark",
+        "PartnerSkill": "Dark Knowledge",
+        "PalJobs": [
+            {
+                "WorkName": "Gathering",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Fiber",
+            "High Grade Technical Manual"
+        ]
+    },
+    {
+        "PalNumber": "16",
+        "PalName": "Teafant",
+        "PalElement": "Water",
+        "PartnerSkill": "Soothing Shower",
+        "PalJobs": [
+            {
+                "WorkName": "Watering",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Pal Fluids"
+        ]
+    },
+    {
+        "PalNumber": "17",
+        "PalName": "Depresso",
+        "PalElement": "Dark",
+        "PartnerSkill": "Caffeine Inoculation",
+        "PalJobs": [
+            {
+                "WorkName": "Handiwork",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Mining",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Venom Gland"
+        ]
+    },
+    {
+        "PalNumber": "18",
+        "PalName": "Cremis",
+        "PalElement": "Neutral",
+        "PartnerSkill": "Fluffy Wool",
+        "PalJobs": [
+            {
+                "WorkName": "Gathering",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Farming",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Wool"
+        ]
+    },
+    {
+        "PalNumber": "19",
+        "PalName": "Daedream",
+        "PalElement": "Dark",
+        "PartnerSkill": "Dream Chaser",
+        "PalJobs": [
+            {
+                "WorkName": "Handiwork",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Gathering",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Small Pal Soul",
+            "Venom Gland"
+        ]
+    },
+    {
+        "PalNumber": "20",
+        "PalName": "Rushoar",
+        "PalElement": "Ground",
+        "PartnerSkill": "Hard Head",
+        "PalJobs": [
+            {
+                "WorkName": "Mining",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Bone",
+            "Leather",
+            "Rushoar Pork"
+        ]
+    },
+    {
+        "PalNumber": "21",
+        "PalName": "Nox",
+        "PalElement": "Dark",
+        "PartnerSkill": "Kuudere",
+        "PalJobs": [
+            {
+                "WorkName": "Gathering",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Leather",
+            "Small Pal Soul"
+        ]
+    },
+    {
+        "PalNumber": "22",
+        "PalName": "Fuddler",
+        "PalElement": "Ground",
+        "PartnerSkill": "Ore Detector",
+        "PalJobs": [
+            {
+                "WorkName": "Handiwork",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Mining",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Leather"
+        ]
+    },
+    {
+        "PalNumber": "23",
+        "PalName": "Killamari",
+        "PalElement": "Dark",
+        "PartnerSkill": "Fried Squid",
+        "PalJobs": [
+            {
+                "WorkName": "Gathering",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": []
+    },
+    {
+        "PalNumber": "24",
+        "PalName": "Mau",
+        "PalElement": "Dark",
+        "PartnerSkill": "Gold Digger",
+        "PalJobs": [
+            {
+                "WorkName": "Farming",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Gold Coin"
+        ]
+    },
+    {
+        "PalNumber": "24B",
+        "PalName": "Mau Cryst",
+        "PalElement": "Ice",
+        "PartnerSkill": "Gold Digger",
+        "PalJobs": [
+            {
+                "WorkName": "Cooling",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Farming",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Ice Organ",
+            "Sapphire"
+        ]
+    },
+    {
+        "PalNumber": "25",
+        "PalName": "Celaray",
+        "PalElement": "Water",
+        "PartnerSkill": "Zephyr Glider",
+        "PalJobs": [
+            {
+                "WorkName": "Watering",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Pal Fluids"
+        ]
+    },
+    {
+        "PalNumber": "26",
+        "PalName": "Direhowl",
+        "PalElement": "Neutral",
+        "PartnerSkill": "Direhowl Rider",
+        "PalJobs": [
+            {
+                "WorkName": "Gathering",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Gold Coin",
+            "Leather",
+            "Ruby"
+        ]
+    },
+    {
+        "PalNumber": "27",
+        "PalName": "Tocotoco",
+        "PalElement": "Neutral",
+        "PartnerSkill": "Eggbomb Launcher",
+        "PalJobs": [
+            {
+                "WorkName": "Gathering",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Gunpowder",
+            "Tocotoco Feather"
+        ]
+    },
+    {
+        "PalNumber": "28",
+        "PalName": "Flopie",
+        "PalElement": "Grass",
+        "PartnerSkill": "Helper Bunny",
+        "PalJobs": [
+            {
+                "WorkName": "Planting",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Handiwork",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Gathering",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Medicine Production",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Low Grade Medical Supplies",
+            "Wheat Seeds"
+        ]
+    },
+    {
+        "PalNumber": "29",
+        "PalName": "Mozzarina",
+        "PalElement": "Neutral",
+        "PartnerSkill": "Milk Maker",
+        "PalJobs": [
+            {
+                "WorkName": "Farming",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Milk",
+            "Mozzarina Meat"
+        ]
+    },
+    {
+        "PalNumber": "30",
+        "PalName": "Bristla",
+        "PalElement": "Grass",
+        "PartnerSkill": "Princess Gaze",
+        "PalJobs": [
+            {
+                "WorkName": "Planting",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Handiwork",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Gathering",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Medicine Production",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Lettuce Seeds",
+            "Wheat Seeds"
+        ]
+    },
+    {
+        "PalNumber": "31",
+        "PalName": "Gobfin",
+        "PalElement": "Water",
+        "PartnerSkill": "Angry Shark",
+        "PalJobs": [
+            {
+                "WorkName": "Watering",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Handiwork",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Pal Fluids"
+        ]
+    },
+    {
+        "PalNumber": "31B",
+        "PalName": "Gobfin Ignis",
+        "PalElement": "Fire",
+        "PartnerSkill": "Angry Shark",
+        "PalJobs": [
+            {
+                "WorkName": "Kindling",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Handiwork",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Flame Organ"
+        ]
+    },
+    {
+        "PalNumber": "32",
+        "PalName": "Hangyu",
+        "PalElement": "Ground",
+        "PartnerSkill": "Flying Trapeze",
+        "PalJobs": [
+            {
+                "WorkName": "Handiwork",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Gathering",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "2"
+            }
+        ],
+        "PalDrops": [
+            "Fiber"
+        ]
+    },
+    {
+        "PalNumber": "32B",
+        "PalName": "Hangyu Cryst",
+        "PalElement": "Ice",
+        "PartnerSkill": "Winter Trapeze",
+        "PalJobs": [
+            {
+                "WorkName": "Handiwork",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Gathering",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Cooling",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "2"
+            }
+        ],
+        "PalDrops": []
+    },
+    {
+        "PalNumber": "33",
+        "PalName": "Mossanda",
+        "PalElement": "Grass",
+        "PartnerSkill": "Grenadier Panda",
+        "PalJobs": [
+            {
+                "WorkName": "Planting",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Handiwork",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Lumbering",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "3"
+            }
+        ],
+        "PalDrops": [
+            "Leather",
+            "Mushroom",
+            "Tomato Seeds"
+        ]
+    },
+    {
+        "PalNumber": "33B",
+        "PalName": "Mossanda Lux",
+        "PalElement": "Electric",
+        "PartnerSkill": "Grenadier Panda",
+        "PalJobs": [
+            {
+                "WorkName": "Generating Electricity",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Handiwork",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Lumbering",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "3"
+            }
+        ],
+        "PalDrops": [
+            "Electric Organ",
+            "Leather",
+            "Mushroom"
+        ]
+    },
+    {
+        "PalNumber": "34",
+        "PalName": "Woolipop",
+        "PalElement": "Neutral",
+        "PartnerSkill": "Candy Pop",
+        "PalJobs": [
+            {
+                "WorkName": "Farming",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Cotton Candy",
+            "High Quality Pal Oil"
+        ]
+    },
+    {
+        "PalNumber": "35",
+        "PalName": "Caprity",
+        "PalElement": "Grass",
+        "PartnerSkill": "Berry Picker",
+        "PalJobs": [
+            {
+                "WorkName": "Planting",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Farming",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Caprity Meat",
+            "Horn",
+            "Red Berries"
+        ]
+    },
+    {
+        "PalNumber": "36",
+        "PalName": "Melpaca",
+        "PalElement": "Neutral",
+        "PartnerSkill": "Pacapaca Wool",
+        "PalJobs": [
+            {
+                "WorkName": "Farming",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Leather",
+            "Wool"
+        ]
+    },
+    {
+        "PalNumber": "37",
+        "PalName": "Eikthyrdeer",
+        "PalElement": "Neutral",
+        "PartnerSkill": "Guardian of the Forest",
+        "PalJobs": [
+            {
+                "WorkName": "Lumbering",
+                "Level": "2"
+            }
+        ],
+        "PalDrops": [
+            "Eikthyrdeer Venison",
+            "Horn",
+            "Leather"
+        ]
+    },
+    {
+        "PalNumber": "37B",
+        "PalName": "Eikthyrdeer Tera",
+        "PalElement": "Ground",
+        "PartnerSkill": "Guardian of the Golden Forest",
+        "PalJobs": [
+            {
+                "WorkName": "Lumbering",
+                "Level": "2"
+            }
+        ],
+        "PalDrops": [
+            "Eikthyrdeer Venison",
+            "Horn",
+            "Leather"
+        ]
+    },
+    {
+        "PalNumber": "38",
+        "PalName": "Nitewing",
+        "PalElement": "Neutral",
+        "PartnerSkill": "Travel Companion",
+        "PalJobs": [
+            {
+                "WorkName": "Gathering",
+                "Level": "2"
+            }
+        ],
+        "PalDrops": [
+            "Leather"
+        ]
+    },
+    {
+        "PalNumber": "39",
+        "PalName": "Ribbuny",
+        "PalElement": "Neutral",
+        "PartnerSkill": "Skilled Fingers",
+        "PalJobs": [
+            {
+                "WorkName": "Handiwork",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Gathering",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Beautiful Flower",
+            "Leather"
+        ]
+    },
+    {
+        "PalNumber": "40",
+        "PalName": "Incineram",
+        "PalElement": "Fire",
+        "PartnerSkill": "Flameclaw Hunter",
+        "PalJobs": [
+            {
+                "WorkName": "Kindling",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Handiwork",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Mining",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "2"
+            }
+        ],
+        "PalDrops": [
+            "Horn",
+            "Leather"
+        ]
+    },
+    {
+        "PalNumber": "40B",
+        "PalName": "Incineram Noct",
+        "PalElement": "Dark",
+        "PartnerSkill": "Darkclaw Hunter",
+        "PalJobs": [
+            {
+                "WorkName": "Handiwork",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Mining",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "2"
+            }
+        ],
+        "PalDrops": [
+            "Horn",
+            "Leather"
+        ]
+    },
+    {
+        "PalNumber": "41",
+        "PalName": "Cinnamoth",
+        "PalElement": "Grass",
+        "PartnerSkill": "Mysterious Scales",
+        "PalJobs": [
+            {
+                "WorkName": "Planting",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Medicine Production",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Honey",
+            "Lettuce Seeds",
+            "Wheat Seeds"
+        ]
+    },
+    {
+        "PalNumber": "42",
+        "PalName": "Arsox",
+        "PalElement": "Fire",
+        "PartnerSkill": "Warm Body",
+        "PalJobs": [
+            {
+                "WorkName": "Kindling",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Lumbering",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Flame Organ",
+            "Horn"
+        ]
+    },
+    {
+        "PalNumber": "43",
+        "PalName": "Dumud",
+        "PalElement": "Ground",
+        "PartnerSkill": "Soil Improver",
+        "PalJobs": [
+            {
+                "WorkName": "Watering",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Mining",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "High Quality Pal Oil",
+            "Raw Dumud"
+        ]
+    },
+    {
+        "PalNumber": "44",
+        "PalName": "Cawgnito",
+        "PalElement": "Dark",
+        "PartnerSkill": "Telepeck",
+        "PalJobs": [
+            {
+                "WorkName": "Lumbering",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Bone",
+            "Small Pal Soul",
+            "Venom Gland"
+        ]
+    },
+    {
+        "PalNumber": "45",
+        "PalName": "Leezpunk",
+        "PalElement": "Dark",
+        "PartnerSkill": "Sixth Sense",
+        "PalJobs": [
+            {
+                "WorkName": "Handiwork",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Gathering",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Copper Key",
+            "Silver Key"
+        ]
+    },
+    {
+        "PalNumber": "45B",
+        "PalName": "Leezpunk Ignis",
+        "PalElement": "Fire",
+        "PartnerSkill": "Sixth Sense",
+        "PalJobs": [
+            {
+                "WorkName": "Kindling",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Handiwork",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Gathering",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Flame Organ",
+            "Silver Key"
+        ]
+    },
+    {
+        "PalNumber": "46",
+        "PalName": "Loupmoon",
+        "PalElement": "Dark",
+        "PartnerSkill": "Claws Glistening in the Dark",
+        "PalJobs": [
+            {
+                "WorkName": "Handiwork",
+                "Level": "2"
+            }
+        ],
+        "PalDrops": [
+            "Bone"
+        ]
+    },
+    {
+        "PalNumber": "47",
+        "PalName": "Galeclaw",
+        "PalElement": "Neutral",
+        "PartnerSkill": "Galeclaw Rider",
+        "PalJobs": [
+            {
+                "WorkName": "Gathering",
+                "Level": "2"
+            }
+        ],
+        "PalDrops": [
+            "Galeclaw Poultry",
+            "Leather"
+        ]
+    },
+    {
+        "PalNumber": "48",
+        "PalName": "Robinquill",
+        "PalElement": "Grass",
+        "PartnerSkill": "Hawk Eye",
+        "PalJobs": [
+            {
+                "WorkName": "Planting",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Handiwork",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Gathering",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Lumbering",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Medicine Production",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "2"
+            }
+        ],
+        "PalDrops": [
+            "Wheat Seeds"
+        ]
+    },
+    {
+        "PalNumber": "48B",
+        "PalName": "Robinquill Terra",
+        "PalElement": "Grass",
+        "PartnerSkill": "Hawk Eye",
+        "PalJobs": [
+            {
+                "WorkName": "Handiwork",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Gathering",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Lumbering",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Medicine Production",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "2"
+            }
+        ],
+        "PalDrops": [
+            "Wheat Seeds"
+        ]
+    },
+    {
+        "PalNumber": "49",
+        "PalName": "Gorirat",
+        "PalElement": "Neutral",
+        "PartnerSkill": "Full-power Gorilla Mode",
+        "PalJobs": [
+            {
+                "WorkName": "Handiwork",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Lumbering",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "3"
+            }
+        ],
+        "PalDrops": [
+            "Bone",
+            "Leather"
+        ]
+    },
+    {
+        "PalNumber": "50",
+        "PalName": "Beegarde",
+        "PalElement": "Grass",
+        "PartnerSkill": "Worker Bee",
+        "PalJobs": [
+            {
+                "WorkName": "Planting",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Handiwork",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Gathering",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Lumbering",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Medicine Production",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Farming",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Honey"
+        ]
+    },
+    {
+        "PalNumber": "51",
+        "PalName": "Elizabee",
+        "PalElement": "Grass",
+        "PartnerSkill": "Queen Bee Command",
+        "PalJobs": [
+            {
+                "WorkName": "Planting",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Handiwork",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Gathering",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Lumbering",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Medicine Production",
+                "Level": "2"
+            }
+        ],
+        "PalDrops": [
+            "Elizabee's Staff",
+            "Honey"
+        ]
+    },
+    {
+        "PalNumber": "52",
+        "PalName": "Grintale",
+        "PalElement": "Neutral",
+        "PartnerSkill": "Plump Body",
+        "PalJobs": [
+            {
+                "WorkName": "Gathering",
+                "Level": "2"
+            }
+        ],
+        "PalDrops": [
+            "High Quality Pal Oil"
+        ]
+    },
+    {
+        "PalNumber": "53",
+        "PalName": "Swee",
+        "PalElement": "Ice",
+        "PartnerSkill": "Fluffy",
+        "PalJobs": [
+            {
+                "WorkName": "Gathering",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Cooling",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Wool"
+        ]
+    },
+    {
+        "PalNumber": "54",
+        "PalName": "Sweepa",
+        "PalElement": "Ice",
+        "PartnerSkill": "King of Fluff",
+        "PalJobs": [
+            {
+                "WorkName": "Gathering",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Cooling",
+                "Level": "2"
+            }
+        ],
+        "PalDrops": [
+            "Wool"
+        ]
+    },
+    {
+        "PalNumber": "55",
+        "PalName": "Chillet",
+        "PalElement": "Ice",
+        "PartnerSkill": "Wriggling Weasel",
+        "PalJobs": [
+            {
+                "WorkName": "Gathering",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Cooling",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Leather"
+        ]
+    },
+    {
+        "PalNumber": "56",
+        "PalName": "Univolt",
+        "PalElement": "Electric",
+        "PartnerSkill": "Swift Deity",
+        "PalJobs": [
+            {
+                "WorkName": "Generating Electricity",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Lumbering",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Electric Organ",
+            "Horn",
+            "Leather"
+        ]
+    },
+    {
+        "PalNumber": "57",
+        "PalName": "Foxcicle",
+        "PalElement": "Ice",
+        "PartnerSkill": "Aurora Guide",
+        "PalJobs": [
+            {
+                "WorkName": "Cooling",
+                "Level": "2"
+            }
+        ],
+        "PalDrops": []
+    },
+    {
+        "PalNumber": "58",
+        "PalName": "Pyrin",
+        "PalElement": "Fire",
+        "PartnerSkill": "Red Hare",
+        "PalJobs": [
+            {
+                "WorkName": "Kindling",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Lumbering",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Flame Organ",
+            "Leather"
+        ]
+    },
+    {
+        "PalNumber": "58B",
+        "PalName": "Pyrin Noct",
+        "PalElement": "Fire",
+        "PartnerSkill": "Black Hare",
+        "PalJobs": [
+            {
+                "WorkName": "Kindling",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Lumbering",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Flame Organ",
+            "Leather"
+        ]
+    },
+    {
+        "PalNumber": "59",
+        "PalName": "Reindrix",
+        "PalElement": "Ice",
+        "PartnerSkill": "Cool Body",
+        "PalJobs": [
+            {
+                "WorkName": "Lumbering",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Cooling",
+                "Level": "2"
+            }
+        ],
+        "PalDrops": [
+            "Horn",
+            "Ice Organ",
+            "Leather",
+            "Reindrix Venison"
+        ]
+    },
+    {
+        "PalNumber": "60",
+        "PalName": "Rayhound",
+        "PalElement": "Electric",
+        "PartnerSkill": "Jumping Force",
+        "PalJobs": [
+            {
+                "WorkName": "Generating Electricity",
+                "Level": "2"
+            }
+        ],
+        "PalDrops": [
+            "Electric Organ"
+        ]
+    },
+    {
+        "PalNumber": "61",
+        "PalName": "Kitsun",
+        "PalElement": "Fire",
+        "PartnerSkill": "Clear Mind",
+        "PalJobs": [
+            {
+                "WorkName": "Kindling",
+                "Level": "2"
+            }
+        ],
+        "PalDrops": []
+    },
+    {
+        "PalNumber": "62",
+        "PalName": "Dazzi",
+        "PalElement": "Electric",
+        "PartnerSkill": "Lady of Lightning",
+        "PalJobs": [
+            {
+                "WorkName": "Generating Electricity",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Handiwork",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Electric Organ"
+        ]
+    },
+    {
+        "PalNumber": "63",
+        "PalName": "Lunaris",
+        "PalElement": "Neutral",
+        "PartnerSkill": "Antigravity",
+        "PalJobs": [
+            {
+                "WorkName": "Handiwork",
+                "Level": "3"
+            },
+            {
+                "WorkName": "Gathering",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Paldium Fragment"
+        ]
+    },
+    {
+        "PalNumber": "64",
+        "PalName": "Dinossom",
+        "PalElement": "Grass",
+        "PartnerSkill": "Fragrant Dragon",
+        "PalJobs": [
+            {
+                "WorkName": "Planting",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Lumbering",
+                "Level": "2"
+            }
+        ],
+        "PalDrops": [
+            "Wheat Seeds"
+        ]
+    },
+    {
+        "PalNumber": "64B",
+        "PalName": "Dinossom Lux",
+        "PalElement": "Electric",
+        "PartnerSkill": "Thunder Dragon",
+        "PalJobs": [
+            {
+                "WorkName": "Generating Electricity",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Lumbering",
+                "Level": "2"
+            }
+        ],
+        "PalDrops": [
+            "Tomato Seeds"
+        ]
+    },
+    {
+        "PalNumber": "65",
+        "PalName": "Surfent",
+        "PalElement": "Water",
+        "PartnerSkill": "Swift Swimmer",
+        "PalJobs": [
+            {
+                "WorkName": "Watering",
+                "Level": "2"
+            }
+        ],
+        "PalDrops": [
+            "Pal Fluids"
+        ]
+    },
+    {
+        "PalNumber": "65B",
+        "PalName": "Surfent Terra",
+        "PalElement": "Ground",
+        "PartnerSkill": "Sand Swimmer",
+        "PalJobs": [
+            {
+                "WorkName": "Gathering",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Pal Fluids",
+            "Pal Fluids"
+        ]
+    },
+    {
+        "PalNumber": "66",
+        "PalName": "Maraith",
+        "PalElement": "Dark",
+        "PartnerSkill": "Messenger of Death",
+        "PalJobs": [
+            {
+                "WorkName": "Gathering",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Mining",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Bone",
+            "Small Pal Soul"
+        ]
+    },
+    {
+        "PalNumber": "67",
+        "PalName": "Digtoise",
+        "PalElement": "Ground",
+        "PartnerSkill": "Drill Crusher",
+        "PalJobs": [
+            {
+                "WorkName": "Mining",
+                "Level": "3"
+            }
+        ],
+        "PalDrops": [
+            "High Quality Pal Oil",
+            "Ore"
+        ]
+    },
+    {
+        "PalNumber": "68",
+        "PalName": "Tombat",
+        "PalElement": "Dark",
+        "PartnerSkill": "Ultrasonic Sensor",
+        "PalJobs": [
+            {
+                "WorkName": "Gathering",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Mining",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "2"
+            }
+        ],
+        "PalDrops": [
+            "Leather",
+            "Small Pal Soul"
+        ]
+    },
+    {
+        "PalNumber": "69",
+        "PalName": "Lovander",
+        "PalElement": "Neutral",
+        "PartnerSkill": "Heart Drain",
+        "PalJobs": [
+            {
+                "WorkName": "Handiwork",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Mining",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Medicine Production",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "2"
+            }
+        ],
+        "PalDrops": [
+            "Flour",
+            "Mushroom",
+            "Strange Juice",
+            "Suspicous Juice"
+        ]
+    },
+    {
+        "PalNumber": "70",
+        "PalName": "Flambelle",
+        "PalElement": "Fire",
+        "PartnerSkill": "Magma Tears",
+        "PalJobs": [
+            {
+                "WorkName": "Kindling",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Handiwork",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Farming",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Flame Organ",
+            "High Quality Pal Oil"
+        ]
+    },
+    {
+        "PalNumber": "71",
+        "PalName": "Vanwyrm",
+        "PalElement": "Fire",
+        "PartnerSkill": "Aerial Maurader",
+        "PalJobs": [
+            {
+                "WorkName": "Kindling",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "3"
+            }
+        ],
+        "PalDrops": [
+            "Bone",
+            "Gold Coin",
+            "Ruby"
+        ]
+    },
+    {
+        "PalNumber": "71B",
+        "PalName": "Vanwyrm Cryst",
+        "PalElement": "Ice",
+        "PartnerSkill": "Aerial Maurader",
+        "PalJobs": [
+            {
+                "WorkName": "Cooling",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "3"
+            }
+        ],
+        "PalDrops": [
+            "Bone",
+            "Ice Organ",
+            "Sapphire"
+        ]
+    },
+    {
+        "PalNumber": "72",
+        "PalName": "Bushi",
+        "PalElement": "Fire",
+        "PartnerSkill": "Brandish Blade",
+        "PalJobs": [
+            {
+                "WorkName": "Kindling",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Handiwork",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Gathering",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Lumbering",
+                "Level": "3"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "2"
+            }
+        ],
+        "PalDrops": [
+            "Bone",
+            "Ingot"
+        ]
+    },
+    {
+        "PalNumber": "73",
+        "PalName": "Beakon",
+        "PalElement": "Electric",
+        "PartnerSkill": "Thunderous",
+        "PalJobs": [
+            {
+                "WorkName": "Generating Electricity",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Gathering",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "3"
+            }
+        ],
+        "PalDrops": [
+            "Electric Organ"
+        ]
+    },
+    {
+        "PalNumber": "74",
+        "PalName": "Ragnahawk",
+        "PalElement": "Fire",
+        "PartnerSkill": "Flame Wing",
+        "PalJobs": [
+            {
+                "WorkName": "Kindling",
+                "Level": "3"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "3"
+            }
+        ],
+        "PalDrops": [
+            "Flame Organ"
+        ]
+    },
+    {
+        "PalNumber": "75",
+        "PalName": "Katress",
+        "PalElement": "Dark",
+        "PartnerSkill": "Grimoire Collector",
+        "PalJobs": [
+            {
+                "WorkName": "Handiwork",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Medicine Production",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "2"
+            }
+        ],
+        "PalDrops": [
+            "High Grade Technical Manual",
+            "Katress Hair",
+            "Leather"
+        ]
+    },
+    {
+        "PalNumber": "76",
+        "PalName": "Wixen",
+        "PalElement": "Fire",
+        "PartnerSkill": "Lord Fox",
+        "PalJobs": [
+            {
+                "WorkName": "Kindling",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Handiwork",
+                "Level": "3"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "2"
+            }
+        ],
+        "PalDrops": [
+            "Flame Organ",
+            "High Grade Technical Manual"
+        ]
+    },
+    {
+        "PalNumber": "77",
+        "PalName": "Verdash",
+        "PalElement": "Grass",
+        "PartnerSkill": "Grassland Speedster",
+        "PalJobs": [
+            {
+                "WorkName": "Planting",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Handiwork",
+                "Level": "3"
+            },
+            {
+                "WorkName": "Gathering",
+                "Level": "3"
+            },
+            {
+                "WorkName": "Lumbering",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "2"
+            }
+        ],
+        "PalDrops": [
+            "Bone",
+            "Leather"
+        ]
+    },
+    {
+        "PalNumber": "78",
+        "PalName": "Vaelet",
+        "PalElement": "Grass",
+        "PartnerSkill": "Purification of Gaia",
+        "PalJobs": [
+            {
+                "WorkName": "Planting",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Handiwork",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Gathering",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Medicine Production",
+                "Level": "3"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Low Grade Medical Supplies",
+            "Tomato Seeds"
+        ]
+    },
+    {
+        "PalNumber": "79",
+        "PalName": "Sibelyx",
+        "PalElement": "Ice",
+        "PartnerSkill": "Silk Maker",
+        "PalJobs": [
+            {
+                "WorkName": "Medicine Production",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Cooling",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Farming",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "High Quality Cloth",
+            "Ice Organ"
+        ]
+    },
+    {
+        "PalNumber": "80B",
+        "PalName": "Elphidran Aqua",
+        "PalElement": "Water",
+        "PartnerSkill": "Amicable Water Dragon",
+        "PalJobs": [
+            {
+                "WorkName": "Watering",
+                "Level": "3"
+            },
+            {
+                "WorkName": "Lumbering",
+                "Level": "2"
+            }
+        ],
+        "PalDrops": [
+            "High Quality Pal Oil"
+        ]
+    },
+    {
+        "PalNumber": "80",
+        "PalName": "Elphidran",
+        "PalElement": "Dragon",
+        "PartnerSkill": "Amicable Holy Dragon",
+        "PalJobs": [
+            {
+                "WorkName": "Lumbering",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "High Quality Pal Oil"
+        ]
+    },
+    {
+        "PalNumber": "81",
+        "PalName": "Kelpsea",
+        "PalElement": "Water",
+        "PartnerSkill": "Aqua Spout",
+        "PalJobs": [
+            {
+                "WorkName": "Watering",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Pal Fluids",
+            "Raw Kelpsea"
+        ]
+    },
+    {
+        "PalNumber": "81B",
+        "PalName": "Kelpsea Ignis",
+        "PalElement": "Fire",
+        "PartnerSkill": "Lava Spout",
+        "PalJobs": [
+            {
+                "WorkName": "Kindling",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Flame Organ",
+            "Raw Kelpsea"
+        ]
+    },
+    {
+        "PalNumber": "82",
+        "PalName": "Azurobe",
+        "PalElement": "Water",
+        "PartnerSkill": "Waterwing Dance",
+        "PalJobs": [
+            {
+                "WorkName": "Watering",
+                "Level": "3"
+            }
+        ],
+        "PalDrops": [
+            "Cloth"
+        ]
+    },
+    {
+        "PalNumber": "83",
+        "PalName": "Cryolinx",
+        "PalElement": "Ice",
+        "PartnerSkill": "Dragon Hunter",
+        "PalJobs": [
+            {
+                "WorkName": "Handiwork",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Lumbering",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Cooling",
+                "Level": "3"
+            }
+        ],
+        "PalDrops": [
+            "Ice Organ"
+        ]
+    },
+    {
+        "PalNumber": "84",
+        "PalName": "Blazehowl",
+        "PalElement": "Fire",
+        "PartnerSkill": "Hellflame Lion",
+        "PalJobs": [
+            {
+                "WorkName": "Kindling",
+                "Level": "3"
+            },
+            {
+                "WorkName": "Lumbering",
+                "Level": "2"
+            }
+        ],
+        "PalDrops": [
+            "Flame Organ"
+        ]
+    },
+    {
+        "PalNumber": "84B",
+        "PalName": "Blazehowl Noct",
+        "PalElement": "Fire",
+        "PartnerSkill": "Darkflame Lion",
+        "PalJobs": [
+            {
+                "WorkName": "Kindling",
+                "Level": "3"
+            },
+            {
+                "WorkName": "Lumbering",
+                "Level": "2"
+            }
+        ],
+        "PalDrops": [
+            "Flame Organ"
+        ]
+    },
+    {
+        "PalNumber": "85",
+        "PalName": "Relaxaurus",
+        "PalElement": "Water",
+        "PartnerSkill": "Hungry Missile",
+        "PalJobs": [
+            {
+                "WorkName": "Watering",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "High Quality Pal Oil",
+            "Ruby",
+            "Ruby"
+        ]
+    },
+    {
+        "PalNumber": "85B",
+        "PalName": "Relaxaurus Lux",
+        "PalElement": "Electric",
+        "PartnerSkill": "Missile Party",
+        "PalJobs": [
+            {
+                "WorkName": "Generating Electricity",
+                "Level": "3"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Electric Organ",
+            "High Quality Pal Oil",
+            "High Quality Pal Oil",
+            "Sapphire"
+        ]
+    },
+    {
+        "PalNumber": "86",
+        "PalName": "Broncherry",
+        "PalElement": "Grass",
+        "PartnerSkill": "Overaffectionate",
+        "PalJobs": [
+            {
+                "WorkName": "Planting",
+                "Level": "3"
+            }
+        ],
+        "PalDrops": [
+            "Broncherry Meat",
+            "Tomato Seeds"
+        ]
+    },
+    {
+        "PalNumber": "86B",
+        "PalName": "Broncherry Aqua",
+        "PalElement": "Water",
+        "PartnerSkill": "Overaffectionate",
+        "PalJobs": [],
+        "PalDrops": [
+            "Broncherry Meat",
+            "Lettuce Seeds"
+        ]
+    },
+    {
+        "PalNumber": "87",
+        "PalName": "Petallia",
+        "PalElement": "Grass",
+        "PartnerSkill": "Blessing of the Flower Spirit",
+        "PalJobs": [
+            {
+                "WorkName": "Planting",
+                "Level": "3"
+            },
+            {
+                "WorkName": "Handiwork",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Gathering",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Medicine Production",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Beautiful Flower"
+        ]
+    },
+    {
+        "PalNumber": "88",
+        "PalName": "Reptyro",
+        "PalElement": "Fire",
+        "PartnerSkill": "Ore-loving Beast",
+        "PalJobs": [
+            {
+                "WorkName": "Kindling",
+                "Level": "3"
+            },
+            {
+                "WorkName": "Mining",
+                "Level": "3"
+            }
+        ],
+        "PalDrops": [
+            "Flame Organ"
+        ]
+    },
+    {
+        "PalNumber": "88B",
+        "PalName": "Ice Reptyro",
+        "PalElement": "Ice",
+        "PartnerSkill": "Ice-loving Beast",
+        "PalJobs": [
+            {
+                "WorkName": "Mining",
+                "Level": "3"
+            },
+            {
+                "WorkName": "Cooling",
+                "Level": "3"
+            }
+        ],
+        "PalDrops": [
+            "Ice Organ"
+        ]
+    },
+    {
+        "PalNumber": "89",
+        "PalName": "Kingpaca",
+        "PalElement": "Neutral",
+        "PartnerSkill": "King of Muscles",
+        "PalJobs": [
+            {
+                "WorkName": "Gathering",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Wool"
+        ]
+    },
+    {
+        "PalNumber": "89B",
+        "PalName": "Ice Kingpaca",
+        "PalElement": "Ice",
+        "PartnerSkill": "King of Muscles",
+        "PalJobs": [
+            {
+                "WorkName": "Gathering",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Cooling",
+                "Level": "3"
+            }
+        ],
+        "PalDrops": [
+            "Ice Organ",
+            "Wool"
+        ]
+    },
+    {
+        "PalNumber": "90",
+        "PalName": "Mammorest",
+        "PalElement": "Grass",
+        "PartnerSkill": "Gaia Crusher",
+        "PalJobs": [
+            {
+                "WorkName": "Planting",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Lumbering",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Mining",
+                "Level": "2"
+            }
+        ],
+        "PalDrops": [
+            "High Quality Pal Oil",
+            "Leather",
+            "Mammorest Meat"
+        ]
+    },
+    {
+        "PalNumber": "90B",
+        "PalName": "Mammorest Cryst",
+        "PalElement": "Ice",
+        "PartnerSkill": "Ice Crusher",
+        "PalJobs": [
+            {
+                "WorkName": "Lumbering",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Mining",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Cooling",
+                "Level": "2"
+            }
+        ],
+        "PalDrops": [
+            "High Quality Pal Oil",
+            "Leather",
+            "Mammorest Meat"
+        ]
+    },
+    {
+        "PalNumber": "91",
+        "PalName": "Wumpo",
+        "PalElement": "Ice",
+        "PartnerSkill": "Guardian of the Snowy Mountain",
+        "PalJobs": [
+            {
+                "WorkName": "Handiwork",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Lumbering",
+                "Level": "3"
+            },
+            {
+                "WorkName": "Cooling",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "4"
+            }
+        ],
+        "PalDrops": [
+            "Beautiful Flower",
+            "Ice Organ"
+        ]
+    },
+    {
+        "PalNumber": "91B",
+        "PalName": "Wumpo Botan",
+        "PalElement": "Grass",
+        "PartnerSkill": "Guardian of the Grassy Fields",
+        "PalJobs": [
+            {
+                "WorkName": "Planting",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Handiwork",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Lumbering",
+                "Level": "3"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "4"
+            }
+        ],
+        "PalDrops": [
+            "Beautiful Flower",
+            "Lettuce Seeds",
+            "Tomato Seeds"
+        ]
+    },
+    {
+        "PalNumber": "92",
+        "PalName": "Warsect",
+        "PalElement": "Grass",
+        "PartnerSkill": "Hard Armor",
+        "PalJobs": [
+            {
+                "WorkName": "Planting",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Handiwork",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Lumbering",
+                "Level": "3"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "3"
+            }
+        ],
+        "PalDrops": [
+            "Honey"
+        ]
+    },
+    {
+        "PalNumber": "93",
+        "PalName": "Fenglope",
+        "PalElement": "Neutral",
+        "PartnerSkill": "Wind and Clouds",
+        "PalJobs": [
+            {
+                "WorkName": "Lumbering",
+                "Level": "2"
+            }
+        ],
+        "PalDrops": [
+            "Horn",
+            "Leather"
+        ]
+    },
+    {
+        "PalNumber": "94",
+        "PalName": "Felbat",
+        "PalElement": "Dark",
+        "PartnerSkill": "Life Steal",
+        "PalJobs": [
+            {
+                "WorkName": "Medicine Production",
+                "Level": "3"
+            }
+        ],
+        "PalDrops": [
+            "Cloth",
+            "Small Pal Soul"
+        ]
+    },
+    {
+        "PalNumber": "95",
+        "PalName": "Quivern",
+        "PalElement": "Dragon",
+        "PartnerSkill": "Sky Dragon's Affection",
+        "PalJobs": [
+            {
+                "WorkName": "Handiwork",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Gathering",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Mining",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "3"
+            }
+        ],
+        "PalDrops": [
+            "High Quality Pal Oil"
+        ]
+    },
+    {
+        "PalNumber": "96",
+        "PalName": "Blazamut",
+        "PalElement": "Fire",
+        "PartnerSkill": "Magma Kaiser",
+        "PalJobs": [
+            {
+                "WorkName": "Kindling",
+                "Level": "3"
+            }
+        ],
+        "PalDrops": [
+            "Coal",
+            "Flame Organ"
+        ]
+    },
+    {
+        "PalNumber": "97",
+        "PalName": "Helzephyr",
+        "PalElement": "Dark",
+        "PartnerSkill": "Wings of Death",
+        "PalJobs": [
+            {
+                "WorkName": "Transporting",
+                "Level": "3"
+            }
+        ],
+        "PalDrops": [
+            "Medium Pal Soul",
+            "Venom Gland"
+        ]
+    },
+    {
+        "PalNumber": "98",
+        "PalName": "Astegon",
+        "PalElement": "Dark",
+        "PartnerSkill": "Black Ankylosaur",
+        "PalJobs": [
+            {
+                "WorkName": "Handiwork",
+                "Level": "1"
+            },
+            {
+                "WorkName": "Mining",
+                "Level": "4"
+            }
+        ],
+        "PalDrops": [
+            "Pal Metal Ingot",
+            "Pure Quartz"
+        ]
+    },
+    {
+        "PalNumber": "99",
+        "PalName": "Menasting",
+        "PalElement": "Ground",
+        "PartnerSkill": "Steel Scorpion",
+        "PalJobs": [
+            {
+                "WorkName": "Lumbering",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Mining",
+                "Level": "3"
+            }
+        ],
+        "PalDrops": [
+            "Coal",
+            "Venom Gland"
+        ]
+    },
+    {
+        "PalNumber": "100",
+        "PalName": "Anubis",
+        "PalElement": "Ground",
+        "PartnerSkill": "Guardian of the Desert",
+        "PalJobs": [
+            {
+                "WorkName": "Handiwork",
+                "Level": "4"
+            },
+            {
+                "WorkName": "Mining",
+                "Level": "3"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "2"
+            }
+        ],
+        "PalDrops": [
+            "Bone",
+            "Innovative Technical Manual",
+            "Large Pal Soul"
+        ]
+    },
+    {
+        "PalNumber": "101",
+        "PalName": "Jormuntide",
+        "PalElement": "Water",
+        "PartnerSkill": "Stormbringer Sea Dragon",
+        "PalJobs": [
+            {
+                "WorkName": "Watering",
+                "Level": "4"
+            }
+        ],
+        "PalDrops": [
+            "Pal Fluids"
+        ]
+    },
+    {
+        "PalNumber": "101B",
+        "PalName": "Jormuntide Ignis",
+        "PalElement": "Fire",
+        "PartnerSkill": "Stormbringer Lava Dragon",
+        "PalJobs": [
+            {
+                "WorkName": "Kindling",
+                "Level": "4"
+            }
+        ],
+        "PalDrops": [
+            "Flame Organ",
+            "High Quality Pal Oil"
+        ]
+    },
+    {
+        "PalNumber": "102",
+        "PalName": "Suzaku",
+        "PalElement": "Fire",
+        "PartnerSkill": "Wings of Fire",
+        "PalJobs": [
+            {
+                "WorkName": "Kindling",
+                "Level": "3"
+            }
+        ],
+        "PalDrops": [
+            "Flame Organ"
+        ]
+    },
+    {
+        "PalNumber": "102B",
+        "PalName": "Suzaku Aqua",
+        "PalElement": "Water",
+        "PartnerSkill": "Wings of Water",
+        "PalJobs": [
+            {
+                "WorkName": "Watering",
+                "Level": "3"
+            }
+        ],
+        "PalDrops": []
+    },
+    {
+        "PalNumber": "103",
+        "PalName": "Grizzbolt",
+        "PalElement": "Electric",
+        "PartnerSkill": "Yellow Tank",
+        "PalJobs": [
+            {
+                "WorkName": "Generating Electricity",
+                "Level": "3"
+            },
+            {
+                "WorkName": "Handiwork",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Lumbering",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "3"
+            }
+        ],
+        "PalDrops": [
+            "Electric Organ",
+            "Leather"
+        ]
+    },
+    {
+        "PalNumber": "104B",
+        "PalName": "Lyleen Noct",
+        "PalElement": "Dark",
+        "PartnerSkill": "Goddess of the Tranquil Light",
+        "PalJobs": [
+            {
+                "WorkName": "Handiwork",
+                "Level": "3"
+            },
+            {
+                "WorkName": "Gathering",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Medicine Production",
+                "Level": "3"
+            }
+        ],
+        "PalDrops": [
+            "Pal Fluids"
+        ]
+    },
+    {
+        "PalNumber": "104",
+        "PalName": "Lyleen",
+        "PalElement": "Grass",
+        "PartnerSkill": "Harvest Goddess",
+        "PalJobs": [
+            {
+                "WorkName": "Planting",
+                "Level": "4"
+            },
+            {
+                "WorkName": "Handiwork",
+                "Level": "3"
+            },
+            {
+                "WorkName": "Gathering",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Medicine Production",
+                "Level": "3"
+            }
+        ],
+        "PalDrops": []
+    },
+    {
+        "PalNumber": "105",
+        "PalName": "Faleris",
+        "PalElement": "Fire",
+        "PartnerSkill": "Scorching Predator",
+        "PalJobs": [
+            {
+                "WorkName": "Kindling",
+                "Level": "3"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "3"
+            }
+        ],
+        "PalDrops": []
+    },
+    {
+        "PalNumber": "106",
+        "PalName": "Orserk",
+        "PalElement": "Electric",
+        "PartnerSkill": "Ferocious Thunder Dragon",
+        "PalJobs": [
+            {
+                "WorkName": "Generating Electricity",
+                "Level": "4"
+            },
+            {
+                "WorkName": "Handiwork",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Transporting",
+                "Level": "3"
+            }
+        ],
+        "PalDrops": []
+    },
+    {
+        "PalNumber": "107",
+        "PalName": "Shadowbeak",
+        "PalElement": "Dark",
+        "PartnerSkill": "Modified DNA",
+        "PalJobs": [
+            {
+                "WorkName": "Gathering",
+                "Level": "1"
+            }
+        ],
+        "PalDrops": [
+            "Carbon Fiber",
+            "Innovative Technical Manual",
+            "Pal Metal Ingot"
+        ]
+    },
+    {
+        "PalNumber": "108",
+        "PalName": "Paladius",
+        "PalElement": "Neutral",
+        "PartnerSkill": "Holy Knight of the Firmament",
+        "PalJobs": [
+            {
+                "WorkName": "Lumbering",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Mining",
+                "Level": "2"
+            }
+        ],
+        "PalDrops": []
+    },
+    {
+        "PalNumber": "109",
+        "PalName": "Necromus",
+        "PalElement": "Dark",
+        "PartnerSkill": "Dark Knight of the Abyss",
+        "PalJobs": [
+            {
+                "WorkName": "Lumbering",
+                "Level": "2"
+            },
+            {
+                "WorkName": "Mining",
+                "Level": "2"
+            }
+        ],
+        "PalDrops": []
+    },
+    {
+        "PalNumber": "110",
+        "PalName": "Frostallion",
+        "PalElement": "Ice",
+        "PartnerSkill": "Ice Steed",
+        "PalJobs": [
+            {
+                "WorkName": "Cooling",
+                "Level": "4"
+            }
+        ],
+        "PalDrops": [
+            "Diamond",
+            "Ice Organ"
+        ]
+    },
+    {
+        "PalNumber": "110B",
+        "PalName": "Frostallion Noct",
+        "PalElement": "Dark",
+        "PartnerSkill": "Black Steed",
+        "PalJobs": [
+            {
+                "WorkName": "Gathering",
+                "Level": "4"
+            }
+        ],
+        "PalDrops": []
+    },
+    {
+        "PalNumber": "111",
+        "PalName": "Jetragon",
+        "PalElement": "Dragon",
+        "PartnerSkill": "Aerial Missile",
+        "PalJobs": [
+            {
+                "WorkName": "Gathering",
+                "Level": "3"
+            }
+        ],
+        "PalDrops": [
+            "Carbon Fiber",
+            "Diamond",
+            "Polymer",
+            "Pure Quartz"
+        ]
+    },
+    {
+        "PalNumber": "???",
+        "PalName": "Boltmane",
+        "PalElement": "Electric",
+        "PartnerSkill": "-",
+        "PalJobs": [],
+        "PalDrops": []
+    },
+    {
+        "PalNumber": "???",
+        "PalName": "Dragostrophe",
+        "PalElement": "Unknown",
+        "PartnerSkill": "-",
+        "PalJobs": [],
+        "PalDrops": []
+    }
+]

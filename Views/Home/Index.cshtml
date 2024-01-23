@@ -1,0 +1,62 @@
+﻿@model List<PalSearch.Models.Pal>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h2 class="text-center">Pal Search</h2>
+
+<div class="input-group mb-3" style="background-color: #343a40; color: #ffffff;">
+    <input type="text" class="form-control" id="searchInput" placeholder="Search..." aria-label="Search" style="background-color: #343a40; border-color: #343a40;">
+    <button class="btn btn-outline-light" type="button" id="clearButton">Clear</button>
+</div>
+
+
+<table class="table">
+    <thead>
+        <tr class="table-row">
+            <th>PalDex #</th>
+            <th>Name</th>
+            <th>Element</th>
+            <th>Partner Skill</th>
+            <th>Work Suitability</th>
+            <th>Possible Drops</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var pal in Model) {
+            <tr class="table-row">
+                <td>#@pal.PalNumber</td>
+                <td class="text-bold"><strong>@pal.PalName</strong></td>
+                <td>@pal.PalElement</td>
+                <td>@pal.PartnerSkill</td>
+                <td>
+                    @foreach (var job in pal.PalJobs) {
+                        <div>@job.WorkName Lv. @job.Level</div>
+                    }
+                </td>
+                <td>
+                    @foreach (var drop in pal.PalDrops) {
+                        <div>@drop</div>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<script src="https://code.jquery.com/jquery-3.7.1.slim.min.js" integrity="sha256-kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8=" crossorigin="anonymous"></script>
+<script>
+    $(document).ready(function () {
+        $("#searchInput").on("keyup", function () {
+            var value = $(this).val().toLowerCase();
+            $("table tbody tr").filter(function () {
+                $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+            });
+        });
+
+        $("#clearButton").click(function () {
+            $("#searchInput").val('');
+            $("table tbody tr").show();
+        });
+    });
+</script>
